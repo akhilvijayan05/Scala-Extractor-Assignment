@@ -1,6 +1,6 @@
 # Scala-Extractor-Assignment
 
-## Authors Akhil and Ashish
+## Authors : Akhil and Ashish
 
 # Scala Assignment 2
 
